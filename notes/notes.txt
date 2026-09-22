@@ -1,0 +1,13 @@
+test@example.com (jobseeker)
+SecurePassword123!
+
+Email address: mantripk369@gmail.com
+Username: 
+Error: This field cannot be blank.
+Username: Pradeep Kumar
+Error: Enter a valid username. This value may contain only letters, numbers, and @/./+/-/_ characters.
+Username: PradeepKumar 
+Password: Bunny@369
+Password (again): 
+Superuser created successfully.
+(.venv) PS E:\AI_Recruitmennt\backend> 
